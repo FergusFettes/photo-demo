@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://pictures.fergusfettes.com/</link>
+    <link>https://www.fergusfettes.com/photo-demo/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Dec 2020 17:25:25 +0100</lastBuildDate>
     
-	<atom:link href="http://pictures.fergusfettes.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.fergusfettes.com/photo-demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://pictures.fergusfettes.com/contact/</link>
+      <link>https://www.fergusfettes.com/photo-demo/contact/</link>
       <pubDate>Sun, 20 Dec 2020 17:25:25 +0100</pubDate>
       
-      <guid>http://pictures.fergusfettes.com/contact/</guid>
+      <guid>https://www.fergusfettes.com/photo-demo/contact/</guid>
       <description>come find me, I&amp;rsquo;m at home on the farm:
  Wantonwells Farm Insch Aberdeenshire AB52 6NL Scotland
  </description>
@@ -24,28 +24,28 @@
     
     <item>
       <title>About</title>
-      <link>http://pictures.fergusfettes.com/about/</link>
+      <link>https://www.fergusfettes.com/photo-demo/about/</link>
       <pubDate>Sun, 20 Dec 2020 17:22:42 +0100</pubDate>
       
-      <guid>http://pictures.fergusfettes.com/about/</guid>
+      <guid>https://www.fergusfettes.com/photo-demo/about/</guid>
       <description>This is me, I&amp;rsquo;m pretty much of a major figure in the art scene I gotta say.</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://pictures.fergusfettes.com/posts/test/</link>
+      <link>https://www.fergusfettes.com/photo-demo/posts/test/</link>
       <pubDate>Sun, 20 Dec 2020 17:17:55 +0100</pubDate>
       
-      <guid>http://pictures.fergusfettes.com/posts/test/</guid>
+      <guid>https://www.fergusfettes.com/photo-demo/posts/test/</guid>
       <description>Test</description>
     </item>
     
     <item>
       <title>The Day I Met Emily Carr</title>
-      <link>http://pictures.fergusfettes.com/posts/test-post/</link>
+      <link>https://www.fergusfettes.com/photo-demo/posts/test-post/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://pictures.fergusfettes.com/posts/test-post/</guid>
+      <guid>https://www.fergusfettes.com/photo-demo/posts/test-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
