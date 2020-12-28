@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://www.fergusfettes.com/photo-demo/posts/</link>
+    <link>https://pictures.fergusfettes.com/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Dec 2020 17:17:55 +0100</lastBuildDate>
     
-	<atom:link href="http://www.fergusfettes.com/photo-demo/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pictures.fergusfettes.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://www.fergusfettes.com/photo-demo/posts/test/</link>
+      <link>https://pictures.fergusfettes.com/posts/test/</link>
       <pubDate>Sun, 20 Dec 2020 17:17:55 +0100</pubDate>
       
-      <guid>http://www.fergusfettes.com/photo-demo/posts/test/</guid>
+      <guid>https://pictures.fergusfettes.com/posts/test/</guid>
       <description>Test</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.fergusfettes.com/photo-demo/posts/test-post/</link>
+      <link>https://pictures.fergusfettes.com/posts/test-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.fergusfettes.com/photo-demo/posts/test-post/</guid>
+      <guid>https://pictures.fergusfettes.com/posts/test-post/</guid>
       <description></description>
     </item>
     
